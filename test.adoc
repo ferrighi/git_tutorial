@@ -1,5 +1,5 @@
 == CSV table
-
+Mapping table. (M) is mandatory field, (CM) is conditional mandatory field. 
 [format="csv", options="header"]
 |===
 mmd,DIF 9.8.4,DIF 10.3,Notes
