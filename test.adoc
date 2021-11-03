@@ -2,7 +2,7 @@
 
 [cols=",,,,"]
 |==================
-mmd|DIF 9.8.4|DIF 10.3|Notes
+mmd|DIF 9.8.4|DIF 10.3|Notes|
 Metadata_identifier (M)|Entry_ID (M)|Entry_ID/ShortName (M)|
 -|-|Entry_ID/Version (M)|
 -|Originating_Metadata_Node|Originating_Metadata_Node|
