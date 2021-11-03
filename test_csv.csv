@@ -1,4 +1,4 @@
 SENT_ON,MESSAGE_ID,MESSAGE_TEXT
-a, b, 'acd"\n"
+a, b, "acd'\n'
 Best regards\n
-acd'
+acd"
