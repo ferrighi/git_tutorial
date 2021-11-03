@@ -1,6 +1,6 @@
 [%hardbreaks]
 
-[cols=",",",",]
+[cols=",,,,"]
 |==================
 mmd|DIF 9.8.4|DIF 10.3|Notes
 Metadata_identifier (M)|Entry_ID (M)|Entry_ID/ShortName (M)|
