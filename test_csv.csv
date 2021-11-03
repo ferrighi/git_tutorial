@@ -1,2 +1,2 @@
 SENT_ON,MESSAGE_ID,MESSAGE_TEXT
-a, b, 'acd\r\nBest regards\r\nacd'
+a, b, "acd\r\nBest regards\r\nacd"
